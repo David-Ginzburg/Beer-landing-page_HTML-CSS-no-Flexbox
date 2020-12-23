@@ -1,1 +1,1 @@
-https://vadim-mostovenko.github.io/Htmlacademy-layout-made-with-pure-HTML-CSS-no-Flexbox/
+https://vadim-mostovenko.github.io/Beer-landing-page_HTML-CSS-no-Flexbox/
